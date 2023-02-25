@@ -1,5 +1,5 @@
 import java.util.*;
-class Prob1 {
+class Prob4 {
     public static void main(String[] args) {
         
             // Fill your code here
